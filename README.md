@@ -1,2 +1,2 @@
 # PROJECTS
-The above projects are leraned and changed of me!!
+The above projects are learned and changed by me!!
