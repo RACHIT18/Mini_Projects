@@ -1,0 +1,33 @@
+
+
+Degree:
+Bachelor of Technology in ECE
+
+
+Graduation Year:
+2014
+
+
+College Name:
+Jawaharlal Nehru Technology University
+
+
+Skills:
+database (Less than 1 year), Git (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1year), life cycle (Less than 1 year)
+• Programming Languages: Java & J2EE, PHP, Apache Nifi, SOAP Web Services, Rest Web Services,Jackson-2• Framework's: Spring, Hibernate, Junit, Mockito• Database: MYSQL, SQL Server, Oracle• App/Web Servers: Tomcat, Apache• Operating Systems: Windows, Linux• SKM: Lithium• Tools: Git, JIRA, Eclipse, puttyKnowledge Purview• Methodologies and Principles:◦ Code Generation Tools◦ Documentation Generation◦ Inversion of Control◦ Iterative Development◦ Object Oriented Programming◦ Deployment◦ AgileProfessional ExperienceCore Competencies~ Requirement Gathering~ Deployment & Support~ Project Management~ Software Development Life Cycle~ Delivery Management~ Quality Assurance~ Application / Software Development~ Liaison & Coordination
+
+
+Companies worked at:
+Microsoft
+
+
+Email Address:
+indeed.com/r/Ashok-Kunam/7aac8767aacf10a0
+
+
+Designation:
+Team Lead
+
+
+Name:
+Ashok Kunam

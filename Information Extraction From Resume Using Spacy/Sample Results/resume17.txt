@@ -1,0 +1,42 @@
+
+
+Degree:
+BSC
+
+
+Graduation Year:
+2012
+
+
+College Name:
+Sri Venkateswara university tirupati
+
+
+Years of Experience:
+3.5+
+
+
+Location:
+Bengaluru
+
+
+Skills:
+Git maven jenkins vagrant docker nagios sonarcube chef ansible
+AWS Devops
+
+
+Companies worked at:
+Cisco
+cisco
+
+
+Email Address:
+indeed.com/r/Dinesh-Reddy/139711455c45e1ad
+
+
+Designation:
+Devops Engineer
+
+
+Name:
+Dinesh Reddy
